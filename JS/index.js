@@ -21,5 +21,18 @@ alert(Number(Numero5) * Number(Numero6))
 alert(Number(Numero7) / Number(Numero8))
 
 
+/*
+var primernumero= Number(prompt("Ingresa un número"))
+var segundonumero= Number(prompt("Ingresa otro número"))
+
+var sumar = primernumero + segundonumero
+var restar = primernumero - segundonumero
+var multiplicar = primernumero * segundonumero
+var dividir = primernumero / segundonumero
 
 
+alert(sumar)
+alert(restar)
+alert(multiplicar)
+alert(dividir)
+*/
